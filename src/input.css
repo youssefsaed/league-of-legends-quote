@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+header{
+    background-position: center center;
+    background-size: cover;
+  }
+  p
+  {
+      font-family: 'Permanent Marker', cursive;
+  font-size: 1.2rem;
+  }
+
+
+
+/* h1
+{
+    font-family: 'Rubik Dirt', cursive;
+    font-size: 5rem;
+
+}
+
+#quote
+{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 3rem;
+    color: #343434;
+
+}
+
+.btn-quote
+{
+    padding: 20px 50px;
+    background-color: black;
+    color: #fff;
+    font-family: 'Permanent Marker', cursive; 
+    font-size: 2rem;
+    transition: all 0.5s;
+}
+.btn-quote:hover
+{
+    background-color: #fff;
+    color: black;
+}
+
+.atrox-color{
+    background-color: #df902e;
+    border-radius: 5%;
+    border: none;
+}
+.yone-color{
+    background-color: #171822;
+    color:#d1ecf8;
+    border-radius: 10%;
+}
+.fixed{
+    position: fixed;
+    top: 5%;
+    left: 0%;
+    transition: all 0.5s;
+}
+.v{
+    margin: auto !important;
+} */
